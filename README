@@ -1,0 +1,18 @@
+# Video-to-Link Bot
+
+A Telegram bot that converts uploaded videos into shareable links.
+
+## Features
+- Upload video
+- Generate shareable link
+- Easy to use
+
+## Requirements
+- Python 3.10+
+- Telegram Bot Token
+
+## Run
+
+```bash
+pip install -r requirements.txt
+python bot.py
